@@ -78,7 +78,6 @@ body {
 }
 .section-background {
   pointer-events: none;
-  background-color: #121212;
   position: absolute;
 
   top: 0;

@@ -12,29 +12,16 @@ const menuData = [
                 subHeader: '',
                 price: 12,
             },
-
             {
                 title: 'Caprese',
                 subHeader: '',
                 price: 12,
             },
-
             {
                 title: 'Caponatina Agrodolce',
                 subHeader: '',
                 price: 9,
-            },
-
-
-            {
-                title: 'Caponatina Agrodolce',
-                subHeader: '(Berenjena salio)',
-                price: 9,
-            },
-
-
-
-
+            }
         ]
     },
     {
@@ -45,41 +32,31 @@ const menuData = [
                 subHeader: '',
                 price: 14,
             },
-
             {
                 title: 'Bombolotti Cacioe Pepe',
                 subHeader: '',
                 price: 14,
             },
-
-
             {
                 title: 'Lasagna alla Bolognese',
                 subHeader: '',
                 price: 11,
             },
-
-
             {
                 title: 'Trofie al pesto',
                 subHeader: '',
-                price: 9,
+                price: 11,
             },
-
-
             {
                 title: 'Carbonara',
                 subHeader: '',
-                price: 12,
+                price: 14,
             },
-
-
             {
                 title: 'Amatriclana',
                 subHeader: '',
-                price: 12,
+                price: 14,
             },
-
         ]
     },
     {
@@ -90,15 +67,11 @@ const menuData = [
                 subHeader: '',
                 price: 5,
             },
-
-
             {
                 title: 'Tiramisu Pistochio',
                 subHeader: '',
                 price: 6,
             },
-
-
             {
                 title: 'Gelato Vaniglia Caffe',
                 subHeader: '',
@@ -114,36 +87,26 @@ const menuData = [
                 subHeader: '',
                 price: 16,
             },
-
-
             {
                 title: 'Polpette al sugo con pecorino',
                 subHeader: '',
                 price: 14,
             },
-
-
             {
                 title: 'Ossobuco alla Romana',
                 subHeader: '',
-                price: 18,
+                price: 20,
             },
-
-
             {
                 title: 'Salmone al pistachio',
                 subHeader: '',
                 price: 20,
             },
-
-
             {
                 title: 'Straccio Romano',
                 subHeader: '(Carne ajo y pimienta)',
                 price: 22,
             },
-
-
         ]
     },
     {
@@ -152,28 +115,27 @@ const menuData = [
             {
                 title: 'Apérol spritz',
                 subHeader: '',
-                price: 5,
+                price: 7,
             },
             {
                 title: 'Campari spritz',
                 subHeader: '',
-                price: 5,
+                price: 9,
             },
             {
                 title: 'Negroni gin',
                 subHeader: '',
-                price: 5,
+                price: 9,
             },
-
             {
                 title: 'Vodka Lemon',
                 subHeader: '',
-                price: 5,
+                price: 9,
             },
             {
                 title: 'Gin lemon',
                 subHeader: '',
-                price: 5,
+                price: 9,
             },
             {
                 title: 'Vodka menta e limone',
@@ -198,12 +160,12 @@ const menuData = [
             {
                 title: 'Gli altri cocktail',
                 subHeader: '',
-                price: 8,
+                price: 9,
             }
-
         ]
     }
 ]
+
 const menuItemsSection = document.querySelector('.menu-items-section');
 
 menuData.forEach(item => {

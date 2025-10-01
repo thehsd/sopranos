@@ -33,7 +33,7 @@ const menuData = [
                 price: 14,
             },
             {
-                title: 'Bombolotti Cacioe Pepe',
+                title: 'bombolotti cacio e pepe',
                 subHeader: '',
                 price: 14,
             },
@@ -140,17 +140,17 @@ const menuData = [
             {
                 title: 'Vodka menta e limone',
                 subHeader: '',
-                price: 0,
+                price: 10,
             },
             {
                 title: 'Dry martini',
                 subHeader: '',
-                price: 0,
+                price: 10,
             },
             {
                 title: 'Cuba libre',
                 subHeader: '',
-                price: 0,
+                price: 10,
             },
             {
                 title: 'Cocktail più pinsa',

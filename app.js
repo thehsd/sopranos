@@ -53,7 +53,7 @@ const menuData = [
                 price: 14,
             },
             {
-                title: 'Amatriclana',
+                title: 'amatriciana',
                 subHeader: '',
                 price: 14,
             },

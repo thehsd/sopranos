@@ -163,7 +163,63 @@ const menuData = [
                 price: 9,
             }
         ]
+    },
+    {
+        title: 'Bevande',
+        items: [
+            {
+                title: 'Birre italiane in vetro',
+                subHeader: '',
+                price: 3.50,
+            },
+            {
+                title: 'Birre alla spina turia/estrella',
+                subHeader: '',
+                price: 3,
+            },
+            {
+                title: 'Coca cola/zero',
+                subHeader: '',
+                price: 3,
+            },
+            {
+                title: 'Fanta',
+                subHeader: '',
+                price: 3,
+            },
+            {
+                title: 'Acquarius',
+                subHeader: '',
+                price: 2.50,
+            },
+            {
+                title: 'The pesca/limone',
+                subHeader: '',
+                price: 2.70,
+            },
+            {
+                title: 'Schweps limone',
+                subHeader: '',
+                price: 3,
+            },
+            {
+                title: 'Nestea in vetro',
+                subHeader: '',
+                price: 3.50,
+            },
+            {
+                title: 'Acqua 0.5lt.',
+                subHeader: '',
+                price: 1.50,
+            },
+            {
+                title: 'Acqua 2lt.',
+                subHeader: '',
+                price: 2.50,
+            }
+        ]
     }
+
 ]
 
 const menuItemsSection = document.querySelector('.menu-items-section');
